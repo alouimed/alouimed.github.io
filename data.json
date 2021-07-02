@@ -1,0 +1,43 @@
+[
+  {
+    "date": "2020-01-01",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "deces": 44985,
+    "decesEhpad": 19780,
+    "hospitalises": 24296,
+    "gueris": 194901,
+    "nom": "Tunisia",
+    "code": "Tn"
+  },
+  {
+    "date": "2020-01-07",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 2727321,
+    "deces": 46539,
+    "decesEhpad": 20302,
+    "hospitalises": 24521,
+    "reanimation": 2582,
+    "gueris": 200079,
+    "casConfirmesEhpad": 149671,
+    "nouvellesHospitalisations": 1438,
+    "nouvellesReanimations": 180,
+   "nom": "Tunisia",
+    "code": "Tn"
+  },
+  {
+    "date": "2020-01-08",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "deces": 46815,
+   "nom": "Tunisia",
+    "code": "Tn"
+  }
+  ]
