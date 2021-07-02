@@ -40,4 +40,34 @@
    "nom": "Tunisia",
     "code": "Tn"
   }
+  {
+    "date": "2020-01-09",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "deces": 46815,
+   "nom": "Tunisia",
+    "code": "Tn"
+  }
+{
+    "date": "2020-01-10",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "deces": 46815,
+   "nom": "Tunisia",
+    "code": "Tn"
+  }
+{
+    "date": "2020-01-11",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "deces": 46815,
+   "nom": "Tunisia",
+    "code": "Tn"
+  }
   ]
