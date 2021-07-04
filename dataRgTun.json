@@ -1,4 +1,5 @@
-{"regionInfo":
+{
+    "regionInfo":
 [
     {"date":"2021-06-30","nom":"Tunis","code":"TN-11","casTests":4493,"casConfirmes":1182,"deces":17},
     {"date":"2021-06-30","nom":"Ben Arous","code":"TN-13","casTests":1243,"casConfirmes":506,"deces":1},
