@@ -1,4 +1,4 @@
-{
+[{
   "updated":1625345828737,"country":"Tunisia",
  "countryInfo":{"_id":788,"iso2":"TN","iso3":"TUN","lat":34,"long":9,"flag":"https://disease.sh/assets/img/flags/tn.png"},
  "cases":438945,"todayCases":6184,"deaths":15261,"todayDeaths":82,"recovered":360645,"todayRecovered":2124,"active":63039,
@@ -16,3 +16,4 @@
  "recoveredPerOneMillion":30199.13,
  "criticalPerOneMillion":44.05
 }
+]
