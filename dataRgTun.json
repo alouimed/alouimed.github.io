@@ -1,4 +1,4 @@
-[
+{
     {"date":"2021-06-30","nom":"Tunis","code":"TN-11","casTests":4493,"casConfirmes":1182,"deces":17},
     {"date":"2021-06-30","nom":"Ben Arous","code":"TN-13","casTests":1243,"casConfirmes":506,"deces":1},
     {"date":"2021-06-30","nom":"ARIANA","code":"TN-12","casTests":1383,"casConfirmes":499,"deces":4},
@@ -25,5 +25,4 @@
     {"date":"2021-06-30","nom":"Kébili","code":"TN-73","casTests":153,"casConfirmes":47,"deces":0},
     {"date":"2021-06-30","nom":"Non résident","code":"TN-001","casTests":null,"casConfirmes":null,"deces":1}
 
-  ]
-  
+}
