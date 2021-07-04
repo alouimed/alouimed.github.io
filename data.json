@@ -1,73 +1,18 @@
-[
-  {
-    "date": "2020-01-01",
-    "source": {
-      "nom": "Ministère des Solidarités et de la Santé"
-    },
-    "sourceType": "ministere-sante",
-    "deces": 44985,
-    "decesEhpad": 19780,
-    "hospitalises": 24296,
-    "gueris": 194901,
-    "nom": "Tunisia",
-    "code": "Tn"
-  },
-  {
-    "date": "2020-01-07",
-    "source": {
-      "nom": "Ministère des Solidarités et de la Santé"
-    },
-    "sourceType": "ministere-sante",
-    "casConfirmes": 2727321,
-    "deces": 46539,
-    "decesEhpad": 20302,
-    "hospitalises": 24521,
-    "reanimation": 2582,
-    "gueris": 200079,
-    "casConfirmesEhpad": 149671,
-    "nouvellesHospitalisations": 1438,
-    "nouvellesReanimations": 180,
-    "nom": "Tunisia",
-    "code": "Tn"
-  },
-  {
-    "date": "2020-01-08",
-    "source": {
-      "nom": "Ministère des Solidarités et de la Santé"
-    },
-    "sourceType": "ministere-sante",
-    "deces": 46815,
-    "nom": "Tunisia",
-    "code": "Tn"
-  },
-  {
-    "date": "2020-01-09",
-    "source": {
-      "nom": "Ministère des Solidarités et de la Santé"
-    },
-    "sourceType": "ministere-sante",
-    "deces": 46815,
-    "nom": "Tunisia",
-    "code": "Tn"
-  },
-  {
-    "date": "2020-01-10",
-    "source": {
-      "nom": "Ministère des Solidarités et de la Santé"
-    },
-    "sourceType": "ministere-sante",
-    "deces": 46815,
-    "nom": "Tunisia",
-    "code": "Tn"
-  },
-  {
-    "date": "2020-01-11",
-    "source": {
-      "nom": "Ministère des Solidarités et de la Santé"
-    },
-    "sourceType": "ministere-sante",
-    "deces": 46815,
-    "nom": "Tunisia",
-    "code": "Tn"
-  }
-]
+{
+  "updated":1625345828737,"country":"Tunisia",
+ "countryInfo":{"_id":788,"iso2":"TN","iso3":"TUN","lat":34,"long":9,"flag":"https://disease.sh/assets/img/flags/tn.png"},
+ "cases":438945,"todayCases":6184,"deaths":15261,"todayDeaths":82,"recovered":360645,"todayRecovered":2124,"active":63039,
+ "critical":526,"casesPerOneMillion":36756,
+ "deathsPerOneMillion":1278,
+ "tests":1773643,
+ "testsPerOneMillion":148519,
+ "population":11942232,
+ "continent":"Africa",
+ "oneCasePerPeople":27,
+ "oneDeathPerPeople":783,
+ "oneTestPerPeople":7,
+ "undefined":5279,
+ "activePerOneMillion":5278.66,
+ "recoveredPerOneMillion":30199.13,
+ "criticalPerOneMillion":44.05
+}
