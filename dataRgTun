@@ -1,18 +1,29 @@
-{
-  "updated":1625345828737,"country":"Tunisia",
- "countryInfo":{"_id":788,"iso2":"TN","iso3":"TUN","lat":34,"long":9,"flag":"https://disease.sh/assets/img/flags/tn.png"},
- "cases":438945,"todayCases":6184,"deaths":15261,"todayDeaths":82,"recovered":360645,"todayRecovered":2124,"active":63039,
- "critical":526,"casesPerOneMillion":36756,
- "deathsPerOneMillion":1278,
- "tests":1773643,
- "testsPerOneMillion":148519,
- "population":11942232,
- "continent":"Africa",
- "oneCasePerPeople":27,
- "oneDeathPerPeople":783,
- "oneTestPerPeople":7,
- "undefined":5279,
- "activePerOneMillion":5278.66,
- "recoveredPerOneMillion":30199.13,
- "criticalPerOneMillion":44.05
-}
+[
+    {"date":"2021-06-30","nom":"Tunis","code":"TN-11","casTests":4493,"casConfirmes":1182,"deces":17},
+    {"date":"2021-06-30","nom":"Ben Arous","code":"TN-13","casTests":1243,"casConfirmes":506,"deces":1},
+    {"date":"2021-06-30","nom":"ARIANA","code":"TN-12","casTests":1383,"casConfirmes":499,"deces":4},
+    {"date":"2021-06-30","nom":"Manouba","code":"TN-14","casTests":842,"casConfirmes":448,"deces":6},
+    {"date":"2021-06-30","nom":"Nabeul ","code":"TN-21","casTests":1454,"casConfirmes":536,"deces":6},
+    {"date":"2021-06-30","nom":"Zaghouan","code":"TN-22","casTests":379,"casConfirmes":129,"deces":0},
+    {"date":"2021-06-30","nom":"Bizerte","code":"TN-23","casTests":385,"casConfirmes":136,"deces":0},
+    {"date":"2021-06-30","nom":"Béja","code":"TN-31","casTests":653,"casConfirmes":295,"deces":0},
+    {"date":"2021-06-30","nom":"Jendouba","code":"TN-32","casTests":459,"casConfirmes":244,"deces":0},
+    {"date":"2021-06-30","nom":"Le Kef","code":"TN-33","casTests":522,"casConfirmes":232,"deces":0},
+    {"date":"2021-06-30","nom":"Siliana ","code":"TN-34","casTests":339,"casConfirmes":191,"deces":0},
+    {"date":"2021-06-30","nom":"Sousse","code":"TN-51","casTests":1114,"casConfirmes":430,"deces":0},
+    {"date":"2021-06-30","nom":"Monastir","code":"TN-52","casTests":716,"casConfirmes":271,"deces":0},
+    {"date":"2021-06-30","nom":"Mahdia","code":"TN-53","casTests":470,"casConfirmes":198,"deces":0},
+    {"date":"2021-06-30","nom":"Sfax","code":"TN-61","casTests":1659,"casConfirmes":465,"deces":0},
+    {"date":"2021-06-30","nom":"Kairouan","code":"TN-41","casTests":552,"casConfirmes":224,"deces":0},
+    {"date":"2021-06-30","nom":"Kasserine","code":"TN-42","casTests":555,"casConfirmes":249,"deces":0},
+    {"date":"2021-06-30","nom":"Sidi Bouzid","code":"TN-43","casTests":546,"casConfirmes":158,"deces":0},
+    {"date":"2021-06-30","nom":"Gabès","code":"TN-81","casTests":231,"casConfirmes":66,"deces":0},
+    {"date":"2021-06-30","nom":"Médenine","code":"TN-82","casTests":777,"casConfirmes":123,"deces":0},
+    {"date":"2021-06-30","nom":"Tataouine","code":"TN-83","casTests":146,"casConfirmes":59,"deces":0},
+    {"date":"2021-06-30","nom":"Gafsa","code":"TN-71","casTests":123,"casConfirmes":51,"deces":0},
+    {"date":"2021-06-30","nom":"Tozeur","code":"TN-72","casTests":101,"casConfirmes":37,"deces":0},
+    {"date":"2021-06-30","nom":"Kébili","code":"TN-73","casTests":153,"casConfirmes":47,"deces":0},
+    {"date":"2021-06-30","nom":"Non résident","code":"TN-001","casTests":null,"casConfirmes":null,"deces":1}
+
+  ]
+  
